@@ -1,5 +1,5 @@
 #!/bin/bash
-# Project 2 - Advanced System Monitoring Script (with proper stop)
+# Project 2 - Advanced System Monitoring Script (With proper stop)
 LOGFILE="$HOME/sysmonitor.log"
 CONFIGFILE="$HOME/.sysmonitor.conf"
 PIDFILE="$HOME/.sysmonitor.pid"
