@@ -19,7 +19,7 @@
 #include <string.h>
 
 /* ──────────────────────────────────────────────────────────────────────────
-   Type definition for operation functions
+   Type definition for operation function
    ────────────────────────────────────────────────────────────────────────── */
 typedef double (*Operation)(double* arr, int size);
 
