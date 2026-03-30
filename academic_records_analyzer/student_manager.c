@@ -6,7 +6,7 @@
  *   - Dynamic memory allocation (malloc/realloc/free)
  *   - Structures with arrays (grades)
  *   - Binary file persistence
- *   - Full CRUD operations
+ *   - Full CRUD ops
  *   - Search (by ID and name), Sort (GPA & Name using qsort), Analytics
  *   - Input validation and error handling
  */
