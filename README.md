@@ -1,7 +1,7 @@
 
 # **Smart Embedded Systems and C Projects – Summative Assessment 2025**
 
-*By Maxwel Okoth*
+*By Philbert Kuria*
 
 This repository contains five fully implemented projects demonstrating embedded systems design, shell scripting, systems programming, data structures, algorithms, and multi-threading in C.
 
@@ -10,7 +10,7 @@ This repository contains five fully implemented projects demonstrating embedded 
 ## **Presentation Video**
 
 Watch the full project demo:
-[View on Google Drive](https://drive.google.com/file/d/1UsoAjaxjercxBkxbswuFiDOtYMlw7JJQ/view?usp=sharing)
+[View on Google Drive]()
 
 ---
 
