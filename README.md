@@ -149,8 +149,8 @@ gcc scraper.c -o scraper -lpthread
 * Multi-threading with POSIX pthreads
 * Modular design and code documentation
 
----
-[My Circuit](<../../Downloads/PCB_Design_Traffic_Light Controller.pdf>)
+---[PCB_Design_Traffic_Light Controller.pdf](https://github.com/user-attachments/files/26460174/PCB_Design_Traffic_Light.Controller.pdf)
+
 ## **Repository Structure**
 
 ```
