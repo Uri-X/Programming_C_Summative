@@ -50,7 +50,7 @@ Import the `.ino` file into Arduino IDE or Tinkercad and upload to your board.
 
 ### **2. Advanced System Monitoring Script**
 
-**Path:** `Project_2_System_Monitor/monitor.sh`
+**Path:** `Project_2_Linux_Server_Health_Monitor/monitor.sh`
 
 A Bash-based system utility to monitor CPU, RAM, and disk usage.
 
@@ -73,7 +73,7 @@ chmod +x monitor.sh
 
 ### **3. Student Management System**
 
-**Path:** `Project_3_Student_Management/student_management.c`
+**Path:** `Project_3_academic_records_analyzer/student_management.c`
 
 A C program for managing student records with analytics and persistent storage.
 
@@ -96,7 +96,7 @@ gcc student_management.c -o student
 
 ### **4. Dynamic Math & Data Processing Engine**
 
-**Path:** `Project_4_Math_Engine/math_engine.c`
+**Path:** `Project_4_Data_analysis_toolkit/Data_analysis.c`
 
 A modular and extensible computational engine.
 
@@ -154,10 +154,10 @@ gcc scraper.c -o scraper -lpthread
 ## **Repository Structure**
 
 ```
-Project_1_Traffic_Light/
-Project_2_System_Monitor/
-Project_3_Student_Management/
-Project_4_Math_Engine/
+Project_1_Smart_Traffic_Light_Controller/
+Project_2_Linux_Server_Health_Monitor/
+Project_3_academic_records_analyzer/
+Project_4_Data_analysis_toolkit/
 Project_5_Web_Scraper/
 README.md
 ```
