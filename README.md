@@ -10,7 +10,7 @@ This repository contains five fully implemented projects demonstrating embedded 
 ## **Presentation Video**
 
 Watch the full project demo:
-[View on Google Drive]()
+https://drive.google.com/file/d/1GXiYS2aYjcTCFo5ufsL8VKfR10o_fIpO/view?usp=sharing
 
 ---
 
@@ -30,7 +30,7 @@ Watch the full project demo:
 
 ### **1. Smart Traffic Light System**
 
-**Link:** [Tinkercad Project](https://www.tinkercad.com/things/1AH80oNS9lr-smart-traffic-control-and-monitoring-system?sharecode=--uqGRiU2WtpkinETE4Y_ZYKsL66Y_xyJLF4Qs298_I)
+**Link:** [Tinkercad Project](https://www.tinkercad.com/things/evvqQMZs9H5-smart-traffic-control-and-monitoring-system/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall%3Fpage%3D1&sharecode=dkH7z2vI4LwqjJe5g5Ru_qLvGKUM1_Gf5v0LpnqPr_g)
 **Path:** `Project_1_Traffic_Light/traffic_light.ino`
 
 A simplified embedded traffic light system implemented using Arduino.
