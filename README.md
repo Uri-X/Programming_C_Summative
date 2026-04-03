@@ -150,7 +150,7 @@ gcc scraper.c -o scraper -lpthread
 * Modular design and code documentation
 
 ---
-
+[My Circuit](<../../Downloads/PCB_Design_Traffic_Light Controller.pdf>)
 ## **Repository Structure**
 
 ```
